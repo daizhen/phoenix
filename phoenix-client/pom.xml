@@ -160,10 +160,10 @@
               <pattern>org.aopalliance</pattern>
               <shadedPattern>${shaded.package}.org.aopalliance</shadedPattern>
             </relocation>
-            <relocation>
-              <pattern>org.codehaus</pattern>
-              <shadedPattern>${shaded.package}.org.codehaus</shadedPattern>
-            </relocation>
+<!--            <relocation>-->
+<!--              <pattern>org.codehaus</pattern>-->
+<!--              <shadedPattern>${shaded.package}.org.codehaus</shadedPattern>-->
+<!--            </relocation>-->
             <relocation>
               <pattern>org.fusesource</pattern>
               <shadedPattern>${shaded.package}.org.fusesource</shadedPattern>
@@ -333,10 +333,10 @@
               <pattern>javax.xml.bind</pattern>
               <shadedPattern>${shaded.package}.javax.xml.bind</shadedPattern>
             </relocation>
-            <relocation>
-              <pattern>javax.servlet</pattern>
-              <shadedPattern>${shaded.package}.javax.servlet</shadedPattern>
-            </relocation>
+<!--            <relocation>-->
+<!--              <pattern>javax.servlet</pattern>-->
+<!--              <shadedPattern>${shaded.package}.javax.servlet</shadedPattern>-->
+<!--            </relocation>-->
             <relocation>
               <pattern>javax.ws</pattern>
               <shadedPattern>${shaded.package}.javax.ws</shadedPattern>

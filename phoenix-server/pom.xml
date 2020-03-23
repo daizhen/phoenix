@@ -162,10 +162,10 @@
                         <exclude>org.apache.commons.configuration2.**</exclude>
                       </excludes>
                     </relocation>
-                    <relocation>
-                      <pattern>org.apache.htrace</pattern>
-                      <shadedPattern>${shaded.package}.org.apache.htrace</shadedPattern>
-                    </relocation>
+<!--                    <relocation>-->
+<!--                      <pattern>org.apache.htrace</pattern>-->
+<!--                      <shadedPattern>${shaded.package}.org.apache.htrace</shadedPattern>-->
+<!--                    </relocation>-->
                     <relocation>
                       <pattern>org.apache.http</pattern>
                       <shadedPattern>${shaded.package}.org.apache.http</shadedPattern>

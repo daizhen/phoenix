@@ -107,7 +107,7 @@
     <jline.version>2.11</jline.version>
     <snappy.version>0.3</snappy.version>
     <commons-codec.version>${cdh.commons-codec.version}</commons-codec.version>
-    <htrace.version>3.1.0-incubating</htrace.version>
+    <htrace.version>4.2.0-incubating.jar</htrace.version>
     <collections.version>${cdh.commons-collections.version}</collections.version>
     <!-- Do not change jodatime.version until HBASE-15199 is fixed -->
     <jodatime.version>${cdh.joda-time.version}</jodatime.version>
